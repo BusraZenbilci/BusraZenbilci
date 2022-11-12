@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring boot.
 
 -✨ Technologies:
-  Java, Spring boot, HTML5, CSS3, SQL
+  Java, Spring boot, HTML5, CSS3, Data base management
 
 -✨ Tools:
   Intellij IDE, Eclips IDE, Visual Studio Code, MySQL, PostgreSQL
