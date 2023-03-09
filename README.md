@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BusraZenbilci
 - 👀 I’m interested in Java and back-end.
-- 🌱 I’m currently learning Spring boot.
+- 🌱 I’m currently learning Java object oriented programming.
 
 -✨ Technologies:
-  Java, Spring boot, HTML5, CSS3, Data base management
+  Java, OOP, HTML5, CSS3, Data base management
 
 -✨ Tools:
   Intellij IDE, Eclips IDE, Visual Studio Code, MySQL, PostgreSQL
