@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BusraZenbilci
-- 👀 I’m interested in Java and back-end.
+- 👀 I’m interested in Java and Phyton.
 - 🌱 I’m currently learning Java object oriented programming.
 
 -✨ Technologies:
