@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Büşra! 
 
 Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz University. I'm currently interested up **Generative AI & Prompt Engineer**!
-![alt text](https://www.yapayzekatr.com/wp-content/uploads/2022/07/Chatbot-image1.jpeg)
-
+<img src="https://www.yapayzekatr.com/wp-content/uploads/2022/07/Chatbot-image1.jpeg" width="250" height="auto">
 
 ## 💻 Tech Stack
 I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
