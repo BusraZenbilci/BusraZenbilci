@@ -40,10 +40,10 @@ Let's connect and chat! Open to discussing tech, projects, and opportunities.
     <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg" alt="Gmail" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/busrazenbilci/" target="_blank">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" alt="LinkedIn" width="60" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linkedin.svg" alt="LinkedIn" width="60" />
   </a>
   <a href="https://medium.com/@busrazenbilci98" target="_blank">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/medium.svg" />
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/medium.svg" alt="LinkedIn" width="60" />
     
 </p>
 
