@@ -35,8 +35,18 @@ You can find these projects across my repositories right here on GitHub!
 ## 📫 How to Reach Me
 Let's connect and chat! Open to discussing tech, projects, and opportunities.
 
-- [LinkedIn](https://www.linkedin.com/in/busrazenbilci/)
-- [Medium](https://medium.com/@busrazenbilci98)
+<p align="center">
+  <a href="busrazenbilci98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg" alt="Gmail" width="60" />
+  </a>
+  <a href="https://www.linkedin.com/in/busrazenbilci/" target="_blank">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" alt="LinkedIn" width="60" />
+  </a>
+  <a href="https://medium.com/@busrazenbilci98" target="_blank">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/medium.svg" />
+    
+</p>
+
 
 ## 🌟 A Little More About Me
 I'm passionate about solving real-world problems through technology and innovation. Exploring new technologies, developing impactful software, and constantly learning are the core of my professional journey.
