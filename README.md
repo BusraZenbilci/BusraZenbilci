@@ -18,15 +18,6 @@ I've developed projects in **Software Engineering**, **Data Science**, and **Mac
 </p>
 
 
-- **Python**
-- **Java**
-- **OOP**  
-- **.Net**
-- **MsSQL**
-- **React**
-- **Angular**
-- **Azure**
-
 
 ## 📌 GitHub Stats And Top Languages
 
