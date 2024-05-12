@@ -6,6 +6,18 @@ Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz Univ
 ## 💻 Tech Stack
 I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
 
+<p align="center">
+  <img src="[URL_TO_PYTHON_ICON](https://github.com/get-icon/geticon/blob/master/icons/python.svg)" alt="Python" width="60" />
+  <img src="URL_TO_JAVA_ICON" alt="Java" width="60" />
+  <img src="URL_TO_OOP_ICON" alt="OOP" width="60" />
+  <img src="URL_TO_DOTNET_ICON" alt=".Net" width="60" />
+  <img src="URL_TO_MSSQL_ICON" alt="MsSQL" width="60" />
+  <img src="URL_TO_REACT_ICON" alt="React" width="60" />
+  <img src="URL_TO_ANGULAR_ICON" alt="Angular" width="60" />
+  <img src="URL_TO_AZURE_ICON" alt="Azure" width="60" />
+</p>
+
+
 - **Python**
 - **Java**
 - **OOP**  
