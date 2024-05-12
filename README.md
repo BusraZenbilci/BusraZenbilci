@@ -1,6 +1,6 @@
 # Hi there, I'm Büşra! 👋
 
-Welcome to my GitHub! I'm currently wrapping up my Computer Engineering degree at Akdeniz University. Excited to be at the forefront of innovation and technology!
+Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz University. Excited to be at the forefront of innovation and technology!
 
 
 ## 💻 Tech Stack
