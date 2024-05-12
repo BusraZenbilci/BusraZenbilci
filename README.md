@@ -8,13 +8,13 @@ I've developed projects in **Software Engineering**, **Data Science**, and **Mac
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt="Python" width="60" />
-  <img src="URL_TO_JAVA_ICON" alt="Java" width="60" />
-  <img src="URL_TO_OOP_ICON" alt="OOP" width="60" />
-  <img src="URL_TO_DOTNET_ICON" alt=".Net" width="60" />
-  <img src="URL_TO_MSSQL_ICON" alt="MsSQL" width="60" />
-  <img src="URL_TO_REACT_ICON" alt="React" width="60" />
-  <img src="URL_TO_ANGULAR_ICON" alt="Angular" width="60" />
-  <img src="URL_TO_AZURE_ICON" alt="Azure" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt="Java" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/lucene.net.svg" alt=".Net" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" alt="postgresql" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular.svg" alt="Angular" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/azure.svg" alt="Azure" width="60" />
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" alt="Git" width="60" />
+
 </p>
 
 
