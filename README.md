@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz Univ
 
 
 ## 💻 Tech Stack
-I've developed projects in **Software Engineering**, **Data Science**, **Machine Learning**, and **Generative AI & Prompt Engineer** using:
+I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
 - **Python**
 - **Java**
 - **.Net**
 - **React**
 - **Angular**
-
+and I'm currently interested up **Generative AI & Prompt Engineer**
 
 ## 📌 GitHub Stats And Top Languages
 
