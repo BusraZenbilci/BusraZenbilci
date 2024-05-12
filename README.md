@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz Univ
 I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
 
 <p align="center">
-  <img src="[URL_TO_PYTHON_ICON](https://github.com/get-icon/geticon/blob/master/icons/python.svg)" alt="Python" width="60" />
+  <img src="[URL_TO_PYTHON_ICON]([https://github.com/get-icon/geticon/blob/master/icons/python.svg](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg))" alt="Python" width="60" />
   <img src="URL_TO_JAVA_ICON" alt="Java" width="60" />
   <img src="URL_TO_OOP_ICON" alt="OOP" width="60" />
   <img src="URL_TO_DOTNET_ICON" alt=".Net" width="60" />
