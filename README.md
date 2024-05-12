@@ -2,9 +2,6 @@
 
 Welcome to my GitHub! I'm currently wrapping up my Computer Engineering degree at Akdeniz University. Excited to be at the forefront of innovation and technology!
 
-## 🚀 Bootcamps I've Attended
-- **Miuul - Data Scientist Bootcamp** *(Sep 2023 - Jan 2024)*
-- **Patika.dev - JAVA & QA & SAP Spartacus Practicum** *(Oct 2022 - Dec 2022)*
 
 ## 💻 Tech Stack
 I've developed projects in **Software Engineering**, **Data Science**, **Machine Learning**, and **Generative AI & Prompt Engineer** using:
@@ -13,6 +10,18 @@ I've developed projects in **Software Engineering**, **Data Science**, **Machine
 - **.Net**
 - **React**
 - **Angular**
+
+
+## 📌 GitHub Stats And Top Languages
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=BusraZenbilci&show_icons=true&count_private=true&hide=contribs,issues" alt="BusraZenbilci's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BusraZenbilci&layout=compact" alt="My Top Langs" />
+</p>
+
+## 🚀 Bootcamps I've Attended
+- **Miuul - Data Scientist Bootcamp** *(Sep 2023 - Jan 2024)*
+- **Patika.dev - JAVA & QA & SAP Spartacus Practicum** *(Oct 2022 - Dec 2022)*
 
 You can find these projects across my repositories right here on GitHub!
 
@@ -26,8 +35,6 @@ I'm passionate about solving real-world problems through technology and innovati
 
 Feel free to explore my repositories and don't hesitate to reach out if you think we can collaborate on a project or if you have any questions. Let's innovate together!
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraZenbilci&layout=compact)
 
 
 
