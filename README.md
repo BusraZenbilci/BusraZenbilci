@@ -5,12 +5,6 @@ Welcome to my GitHub! I'm student in Computer Engineering degree at Akdeniz Univ
 
 ## 💻 Tech Stack
 I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
-<p align="center">
-  <img src="https://github.com/BusraZenbilci
-/BusraZenbilci /blob/main/assets/java.png?raw=true" alt="Java" width="70" />
-  <!-- Diğer teknoloji logoları için img etiketlerini buraya ekleyin -->
-</p>
-
 
 - **Python**
 - **Java**
@@ -19,6 +13,7 @@ I've developed projects in **Software Engineering**, **Data Science**, and **Mac
 - **MsSQL**
 - **React**
 - **Angular**
+- **Azure**
 
 
 ## 📌 GitHub Stats And Top Languages
