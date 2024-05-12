@@ -26,6 +26,8 @@ I'm passionate about solving real-world problems through technology and innovati
 
 Feel free to explore my repositories and don't hesitate to reach out if you think we can collaborate on a project or if you have any questions. Let's innovate together!
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraZenbilci&layout=compact)
 
 
 
