@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a senior student in Computer Science and Engineering d
 
 
 ## 💻 Tech Stack
-I've developed projects in **Software Engineering**, **Data Science**, and **Machine Learning** using:
+I've developed projects in **Software Engineering**, **Data Science** and **Machine Learning** using:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt="Python" width="60" />
