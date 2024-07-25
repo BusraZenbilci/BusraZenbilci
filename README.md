@@ -27,7 +27,7 @@ I've developed projects in **Software Engineering**, **Data Science** and **Mach
 </p>
 
 ## 🚀 Bootcamps I've Attended
-- **Patika.dev - MiPower Veri Bilimi Bootcamp** *(May 2024 - June 2024)*
+- **Patika.dev - Mİ-POWER: Woman Empowerment Bootcamp** *(May 2024 - June 2024)*
 - **Miuul - Data Scientist Bootcamp** *(Sep 2023 - Jan 2024)*
 - **Patika.dev - JAVA & QA & SAP Spartacus Practicum** *(Oct 2022 - Dec 2022)*
 
