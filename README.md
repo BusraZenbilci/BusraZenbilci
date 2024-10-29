@@ -11,8 +11,6 @@ I've developed projects in **Software Engineering**, **Data Science** and **Mach
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt="Java" width="60" />
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/lucene.net.svg" alt=".Net" width="60" />
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg" alt="postgresql" width="60" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular.svg" alt="Angular" width="60" />
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/azure.svg" alt="Azure" width="60" />
   <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" alt="Git" width="60" />
 
 </p>
