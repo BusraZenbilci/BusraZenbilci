@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Büşra! 
 
-Welcome to my GitHub! I'm a senior student in Computer Science and Engineering degree at Akdeniz University. I'm currently interested in **Generative AI & Prompt Engineer**!
+Welcome to my GitHub! I graduated from Akdeniz University Computer Science and Engineering department. I'm currently interested in **Generative AI & Prompt Engineer** and **NLP**!
 
 
 ## 💻 Tech Stack
